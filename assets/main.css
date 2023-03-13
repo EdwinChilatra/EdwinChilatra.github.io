@@ -1,0 +1,61 @@
+body {
+    margin: 30px;
+    padding: 30px;
+    background-color:azure;
+    
+}
+
+.hoja_de_vida{
+    text-align: center;
+    background-color: #89ffbe;
+    border: white 6px outset;  
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px
+
+
+
+}
+
+p{
+    text-align: justify;
+}
+
+.foto_hoja_vida{
+    width: 9rem;
+    height: 9rem;
+    border: 2px solid #89ffbe;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px
+
+}
+
+
+h2 {
+    background-color: #89ffbe;
+    border: white 5px groove;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px
+
+    
+}
+
+table, th, td{
+    border: 2px solid rgb(182, 181, 181);
+}
+
+
+
+th, td{
+    text-align: center;
+}
+#Referencia{
+    text-align: center;
+}
+
+th{
+    background-color: rgba(221, 221, 221);
+}
+
+
+
+
+
+
